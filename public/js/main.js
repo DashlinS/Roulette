@@ -11,7 +11,7 @@
 //Game will be the index page. 
 
 let userBank = Number(document.querySelector('.moneyValue').innerText.replace('$', ''))
-let casinoBank = Number(document.querySelector('.moneyValue').innerText.replace('$', '')) * -1
+let casinoBank = Number(document.querySelector('.moneyValue').innerText.replace('$', '')) * - 1
 let wins = Number(document.querySelector('.winsValue').innerText)
 let losses = Number(document.querySelector('.lossesValue').innerText)
 // let results
