@@ -5,7 +5,7 @@ This project is a Casino Roulette game that allows new user to jump in and play!
 
 <img src="https://github.com/DashlinS/Roulette/blob/main/public/gifs/casinodemo.gif" width="700">
 
-<!-- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!]() -->
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Click Here to go to the website!](https://letsroulette.herokuapp.com/)
 
 ## How Its Made 
 
