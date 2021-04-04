@@ -1,4 +1,4 @@
-# Let's Play, Roulette!
+# Let's Bet, Roulette!
 
 This project is a Casino Roulette game that allows new user to jump in and play! You don't need to sign up and are able to bet immediately to play. The wins, losses, and money are recording through the server to the DB. When an admin logs in, they are able to see the games played and how much they lost!
 &emsp;
